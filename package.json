@@ -1,0 +1,22 @@
+{
+  "name": "alexmarple.github.io",
+  "version": "1.0.0",
+  "description": "Hey hi hello. I'm Alex Marple. You're new best friend!",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -f '**/*.html, **/*[.js|.css]' --serveStatic '.' --server "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarple/alexmarple.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmarple/alexmarple.github.io/issues"
+  },
+  "homepage": "https://github.com/alexmarple/alexmarple.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.16.1"
+  }
+}
